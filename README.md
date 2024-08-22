@@ -35,7 +35,7 @@ llama-2-7b-chat.ggmlv3.q4_0.bin
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 ```
 
-### step 06- In pinecone database, create a index with name "" and dimension :
+### step 06- In pinecone database, create a index with name "medical-chatbot-1" and dimension :
 
 ### step 07- Run store_index.py to create embedding and store embedding in pineconde database :
 
