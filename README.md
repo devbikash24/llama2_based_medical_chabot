@@ -61,3 +61,10 @@ python app.py
 - Pinecone
 
 
+### Few Screenshots
+
+![app1](https://github.com/user-attachments/assets/8769d193-92a8-4bdc-8d61-0de1cc15e7e7) 
+
+![app2](https://github.com/user-attachments/assets/11eedb40-c7ba-4d6a-9718-e743975df2bf)
+
+
